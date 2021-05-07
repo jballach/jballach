@@ -1,0 +1,5 @@
+- Hi, I’m @jballach a Senior Capacity Planning Analyst at Instacart.
+- I’m interested in data analytics and modeling.
+- I’m currently learning linear programming and advancing my knowledge of python.
+- I’m looking to collaborate on linear programming problems using the pulp package in python.
+- You can reach me at jballach@gmail.com
